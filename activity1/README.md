@@ -4,8 +4,10 @@
 
 - Refer to the following link. Discuss how Merge-sort works:
   https://opendsa-server.cs.vt.edu/OpenDSA/AV/Sorting/mergesortAV.html
+  answers:
 - Merge-sort Practice. Refer to the following link. Merge the two sub-arrays into the larger array.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Sorting/MergesortMergePRO.html
+  answers:
 
 ## Task 2
 
