@@ -4,17 +4,19 @@
 
 - Refer to the following link. Discuss how Merge-sort works:
   https://opendsa-server.cs.vt.edu/OpenDSA/AV/Sorting/mergesortAV.html
-  answers:
+  answers: DONE in class
 - Merge-sort Practice. Refer to the following link. Merge the two sub-arrays into the larger array.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Sorting/MergesortMergePRO.html
-  answers:
+  answers: DONE
 
 ## Task 2
 
 - Refer to the following link. Discuss how Quick-sort works:  
   https://opendsa-server.cs.vt.edu/OpenDSA/AV/Sorting/quicksortAV.html
+  answers:DONE
 - Quick-sort Practice. Refer to the following link. Partition the array using quicksort.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Sorting/QuicksortPartitPRO.html
+  answers:DONE, understood
 
 ## Task 3
 
